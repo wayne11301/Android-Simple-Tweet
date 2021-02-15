@@ -27,4 +27,8 @@ public class Tweet {
         }
         return tweets;
     }
+    public static String getFormattedTimestamp(String createdAt){
+        String timediff = TimeFormatter.getTimeDifference(createdAt);
+        return timediff;
+    }
 }

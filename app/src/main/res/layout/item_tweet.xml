@@ -30,4 +30,15 @@
         android:layout_marginTop="2dp"
         android:layout_toEndOf="@+id/ivProfileImage"
         tools:text="this is my tweets" />
+
+    <TextView
+        android:id="@+id/tvTimeStamp"
+        android:layout_width="50dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/ivProfileImage"
+        android:layout_marginTop="5dp"
+        android:layout_marginEnd="5dp"
+        android:layout_toStartOf="@+id/tvScreenName"
+        tools:text="time" />
+
 </RelativeLayout>
