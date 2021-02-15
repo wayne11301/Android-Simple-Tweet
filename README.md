@@ -31,11 +31,9 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+Here's a walkthrough of implemented user stories: 2/15/2021 UPDATE with timestamp
 
-2/15/2021 UPDATE with timestamp
 <img src='walkthrough1_r1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
 
 <img src='walkthrough1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
